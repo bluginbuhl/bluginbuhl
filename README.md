@@ -45,7 +45,9 @@
 
 ### Github Stats
 
-<img align="left" alt="bluginbuhl's Github Stats" src="https://github-readme-stats.vercel.app/api?username=bluginbuhl&show_icons=true&hide_border=true&count_private=true" />
+<img align="left" alt="bluginbuhl's Github Stats" src="https://github-readme-stats.vercel.app/api?username=bluginbuhl&show_icons=true&hide_border=true&count_private=true&theme=gruvbox&hide=stars,contributed" />
+
+<img align="left" alt="bluginbuhl's Most Common Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bluginbuhl&layout=compact&theme=gruvbox&hide_border=true" />
 
 <!-- variable definitions -->
 [website]: https://benluginbuhl.com
