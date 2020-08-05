@@ -41,7 +41,11 @@
 <br />
 <br />
 
+---
+
 ### Github Stats
+
+<img align="left" alt="bluginbuhl's Github Stats" src="https://github-readme-stats.vercel.app/api?username=bluginbuhl&show_icons=true&hide_border=true&count_private=true" />
 
 <!-- variable definitions -->
 [website]: https://benluginbuhl.com
