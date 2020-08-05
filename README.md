@@ -7,16 +7,19 @@
 - I've been a teacher for more than 5 years (chemistry!)
 - I love making new things
 
+<br />
+<br />
+
 ### Connect with me
 
 <a href=[website] title="benluginbuhl.com"><img align="left" alt="benluginbuhl.com" width="22px" src="https://img.icons8.com/android/48/000000/domain.png" /></a>
 <a href=[linkedin] title="LinkedIn"><img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-<a href=[googlescholar] title="Google Scholar"><img align="left" alt="GoogleScholar" width="22px" src="google-scholar.svg" /></a>
+<a href=[googlescholar] title="Google Scholar"><img align="left" alt="GoogleScholar" width="22px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwchnicholas.github.io%2Fimg%2Fgoogle-scholar-icon-6.jpg&f=1&nofb=1" /></a>
 
 <br />
+<br />
 
-### Languages and Tools
-
+### Languages/Tools I use
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
