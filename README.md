@@ -1,6 +1,6 @@
 # Hi there, I'm Ben!
 
-## I'm a Chemistry PhD Student, a free-lance developer, and a data enthusiast
+### I'm a Chemistry PhD Student, a free-lance developer, and a data enthusiast
 
 - I'm currently learning anything and everything
 - I'm passionate about renewable and green energy technologies
@@ -8,6 +8,7 @@
 - I love making new things
 
 ### Connect with me
+
 [<img align="left" alt="benluginbuhl.com" width="22px" src="https://img.icons8.com/android/48/000000/domain.png" />][website]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="GoogleScholar" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3.4/icons/googlescholar.svg" />][googlescholar]
@@ -29,10 +30,8 @@
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
-
 <br />
 <br />
-
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
@@ -49,9 +48,10 @@
 
 ### Github Stats
 
-<img align="left" alt="bluginbuhl's Github Stats" src="https://github-readme-stats.vercel.app/api?username=bluginbuhl&show_icons=true&hide_border=true&count_private=true&theme=gruvbox&hide=stars,contributed" />
+<img align="left" alt="bluginbuhl's Github Stats" width="450px" src="https://github-readme-stats.vercel.app/api?username=bluginbuhl&show_icons=true&hide_border=true&count_private=true&theme=gruvbox&hide=stars,contributed" />
 
-<img align="left" alt="bluginbuhl's Most Common Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bluginbuhl&layout=compact&theme=gruvbox&hide_border=true" />
+<img align="left" alt="bluginbuhl's Most Common Languages" width="318px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bluginbuhl&layout=compact&theme=gruvbox&hide_border=true" />
+
 
 <!-- variable definitions -->
 [website]: https://benluginbuhl.com
