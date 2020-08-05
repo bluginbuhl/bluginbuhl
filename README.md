@@ -14,7 +14,7 @@
 
 <a href=[website] title="benluginbuhl.com"><img align="left" alt="benluginbuhl.com" width="22px" src="https://img.icons8.com/android/48/000000/domain.png" /></a>
 <a href=[linkedin] title="LinkedIn"><img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-<a href=[googlescholar] title="Google Scholar"><img align="left" alt="GoogleScholar" width="22px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwchnicholas.github.io%2Fimg%2Fgoogle-scholar-icon-6.jpg&f=1&nofb=1" /></a>
+<a href=[googlescholar] title="Google Scholar"><img align="left" alt="GoogleScholar" width="22px" src="https://ghcdn.rawgit.org/bluginbuhl/svg-icons/main/svg/google-scholar-round.svg" /></a>
 
 <br />
 <br />
