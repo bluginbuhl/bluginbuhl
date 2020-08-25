@@ -15,6 +15,7 @@
 <a href="https://benluginbuhl.com" title="benluginbuhl.com" target="_blank"><img align="left" alt="benluginbuhl.com" width="30px" src="https://img.icons8.com/android/48/000000/domain.png" /></a>
 <a href="https://linkedin.com/in/benluginbuhl" title="LinkedIn" target="_blank"><img align="left" alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 <a href="https://scholar.google.com/citations?user=lAqY7oIAAAAJ&hl=en" title="Google Scholar" target="_blank"><img align="left" alt="GoogleScholar" width="30px" src="https://ghcdn.rawgit.org/bluginbuhl/svg-icons/main/svg/google-scholar-round.svg" /></a>
+<a href="https://stackoverflow.com/users/3268149/ad-intra?tab=profile" title="StackOverflow" target="_blank"><img align="left" alt="LinkedIn" width="30px" src="https://ghcdn.rawgit.org/bluginbuhl/svg-icons/main/svg/stackoverflow.svg" /></a>
 
 <br />
 <br />
