@@ -34,6 +34,7 @@
 <br />
 <br />
 <a href="#"><img align="left" title="Bash" alt="Bash" height="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" /></a>
+<a href="#"><img align="left" title="Octave" alt="Octave" height="35px" src="https://ghcdn.rawgit.org/bluginbuhl/svg-icons/main/svg/octave.svg" /></a>
 <br />
 <br />
 <a href="#"><img align="left" title="Python" alt="Python" height="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /></a>
