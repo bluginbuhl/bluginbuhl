@@ -73,7 +73,7 @@
 
 ### Github Stats
 
-<img align="left" alt="bluginbuhl's Github Stats" width="450px" src="https://github-readme-stats.vercel.app/api?username=bluginbuhl&show_icons=true&hide_border=true&count_private=true&theme=gruvbox&hide=stars,contributed" />
+<img align="left" alt="bluginbuhl's Github Stats" width="450px" src="https://github-readme-stats.vercel.app/api?username=bluginbuhl&show_icons=true&hide_border=true&count_private=true&theme=gruvbox" />
 
 <img align="left" alt="bluginbuhl's Most Common Languages" width="318px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bluginbuhl&layout=compact&theme=gruvbox&hide_border=true" />
 
