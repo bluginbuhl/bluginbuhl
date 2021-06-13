@@ -1,20 +1,29 @@
 # Hi there, I'm Ben!
 
-### I'm a Chemistry PhD Student, a free-lance developer, and a data enthusiast
+## I'm a Chemistry PhD Student, a free-lance developer, and a data enthusiast
 
 - I'm currently learning anything and everything
 - I'm passionate about renewable and green energy technologies
 - I've been a teacher for more than 5 years (chemistry!)
 - I love making new things
+- I'm the founder and (currently) sole maintainer of [OPyV.org](https://opyv.org)
 
 <br />
 <br />
 
-### Connect with me
+## Connect with me
 
 <table>
- <tbody>
+ <thead>
   <tr>
+   <th>Personal Site</th>
+    <th>LinkedIn</th>
+    <th>Google Scholar</th>
+    <th>Stack Overflow</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr align="center">
    <td>
     <a href="https://benluginbuhl.com" title="benluginbuhl.com" target="_blank"><img align="center" alt="benluginbuhl.com" width="30px" src="https://img.icons8.com/android/48/000000/domain.png" /></a>
    </td>
@@ -32,9 +41,8 @@
 </table>
 
 <br />
-<br />
 
-### Languages/Tools I use
+## Languages/Tools I use
 <br />
 <table>
  <tbody>
@@ -146,11 +154,17 @@
 
 ---
 
-### Github Stats
+## Github Stats
 
-<img align="center" alt="bluginbuhl's Github Stats" width="450px" src="https://github-readme-stats.vercel.app/api?username=bluginbuhl&show_icons=true&hide_border=true&count_private=true&theme=gruvbox" />
+<table align="center">
+ <tr>
+  <td>
+   <img align="center" alt="bluginbuhl's Github Stats" width="450px" src="https://github-readme-stats.vercel.app/api?username=bluginbuhl&show_icons=true&hide_border=true&count_private=true&theme=dark" />
+  </td>
+ <tr>
+</table>
 
-<img align="center" alt="bluginbuhl's Most Common Languages" width="318px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bluginbuhl&layout=compact&theme=gruvbox&hide_border=true" />
+<!-- <img align="center" alt="bluginbuhl's Most Common Languages" width="318px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bluginbuhl&layout=compact&theme=dark&hide_border=true" /> -->
 
 
 <!-- variable definitions -->
