@@ -35,10 +35,6 @@
 <br />
 
 ### Languages/Tools I use
-<style>
-  tr {border: 0px !important; background-color: transparent !important;}
-</style>
-
 <br />
 <table>
  <tbody>
