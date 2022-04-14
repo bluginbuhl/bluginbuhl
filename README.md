@@ -1,6 +1,6 @@
 # Hi there, I'm Ben!
 
-## I'm a Chemistry PhD Student, a free-lance developer, and a data enthusiast
+## I'm a Postdoctoral researcher, a free-lance developer, and a data enthusiast
 
 - I'm currently learning anything and everything
 - I'm passionate about renewable and green energy technologies
