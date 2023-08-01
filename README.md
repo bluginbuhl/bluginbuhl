@@ -22,6 +22,7 @@ Currently, I'm a Scientific Software Developer at Enthought, Inc., in Austin, TX
 
 ## Github Stats
 
+Reminder: stats are only shown for _public_ repositories.
 <table align="center">
  <tr>
   <td>
@@ -29,8 +30,6 @@ Currently, I'm a Scientific Software Developer at Enthought, Inc., in Austin, TX
   </td>
  <tr>
 </table>
-
-<!-- <img align="center" alt="bluginbuhl's Most Common Languages" width="318px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bluginbuhl&layout=compact&theme=dark&hide_border=true" /> -->
 
 
 <!-- variable definitions -->
