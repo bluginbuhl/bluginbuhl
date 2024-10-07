@@ -1,6 +1,6 @@
 # Hi there, I'm Ben!
 
-Currently, I'm a Scientific Software Developer at Enthought, Inc., in Austin, TX.
+I'm a Scientific Software Developer working for Enthought, Inc.
 
 **Things about me:**
 - I'm currently learning anything and everything
@@ -12,7 +12,6 @@ Currently, I'm a Scientific Software Developer at Enthought, Inc., in Austin, TX
 
 ## Connect with me
 
-- [Personal Site](https://benluginbuhl.com)
 - [LinkedIn](https://linkedin.com/in/benluginbuhl)
 - [Google Scholar](https://scholar.google.com/citations?user=lAqY7oIAAAAJ&hl=en)
 
@@ -33,6 +32,5 @@ Reminder: stats are only shown for _public_ repositories.
 
 
 <!-- variable definitions -->
-[website]: https://benluginbuhl.com
 [linkedin]: https://linkedin.com/in/benluginbuhl
 [googlescholar]: https://scholar.google.com/citations?user=lAqY7oIAAAAJ&hl=en
