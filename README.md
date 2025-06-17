@@ -1,12 +1,9 @@
 # Hi there, I'm Ben!
 
-I'm a Scientific Software Developer working for Enthought, Inc.
-
-**Things about me:**
-- I'm currently learning anything and everything
-- I'm passionate about renewable and green energy technologies
-- I did my PhD in Chemistry at the University of California, Santa Barbara
-- I love making new things
+Things I do for work:
+- Scientific Software Development for [Enthought, Inc](https://www.enthought.com/).
+- Light Pollution Analysis & Consulting for Dark Sky Partners, LLC.
+- Dark Sky Awareness and Outreach for [Flagstaff Dark Skies Coalition](https://flagstaffdarkskies.org/).
 
 <br />
 
@@ -16,6 +13,15 @@ I'm a Scientific Software Developer working for Enthought, Inc.
 - [Google Scholar](https://scholar.google.com/citations?user=lAqY7oIAAAAJ&hl=en)
 
 <br />
+
+---
+## Technical Skills & Tools
+
+| Language | Frameworks & Tools |
+|:--------:|:-------------------|
+[![Programming Languages](https://skillicons.dev/icons?i=py)](https://skillicons.dev) | [![Programming Languages](https://skillicons.dev/icons?i=sklearn,pytorch,opencv,fastapi,django,flask,)](https://skillicons.dev) |
+[![Programming Languages](https://skillicons.dev/icons?i=js,ts,html,css)](https://skillicons.dev) | [![Programming Languages](https://skillicons.dev/icons?i=react,redux,nodejs,vite,vitest,npm,d3,materialui,bootstrap,tailwind)](https://skillicons.dev) |
+[![Programming Languages](https://skillicons.dev/icons?i=git)](https://skillicons.dev) | [![Programming Languages](https://skillicons.dev/icons?i=github,githubactions,gitlab)](https://skillicons.dev) |
 
 ---
 
