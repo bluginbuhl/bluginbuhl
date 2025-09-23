@@ -1,7 +1,7 @@
 # Hi there, I'm Ben!
 
 Things I do for work:
-- Scientific Software Development for [Enthought, Inc](https://www.enthought.com/).
+- Sr. Scientific Software Development for [Enthought, Inc](https://www.enthought.com/).
 - Light Pollution Analysis & Consulting for Dark Sky Partners, LLC.
 - Dark Sky Awareness and Outreach for [Flagstaff Dark Skies Coalition](https://flagstaffdarkskies.org/).
 
