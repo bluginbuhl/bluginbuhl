@@ -22,6 +22,7 @@ Things I do for work:
 [![Programming Languages](https://skillicons.dev/icons?i=py)](https://skillicons.dev) | [![Programming Languages](https://skillicons.dev/icons?i=sklearn,pytorch,opencv,fastapi,django,flask,)](https://skillicons.dev) |
 [![Programming Languages](https://skillicons.dev/icons?i=js,ts,html,css)](https://skillicons.dev) | [![Programming Languages](https://skillicons.dev/icons?i=react,redux,nodejs,vite,vitest,npm,d3,materialui,bootstrap,tailwind)](https://skillicons.dev) |
 [![Programming Languages](https://skillicons.dev/icons?i=git)](https://skillicons.dev) | [![Programming Languages](https://skillicons.dev/icons?i=github,githubactions,gitlab)](https://skillicons.dev) |
+| Other Tools | [![Programming Languages](https://skillicons.dev/icons?i=ubuntu,aws,docker,vscode,)](https://skillicons.dev) |
 
 ---
 
