@@ -2,7 +2,7 @@
 
 Things I do for work:
 - Sr. Scientific Software Development for [Enthought, Inc](https://www.enthought.com/).
-- Light Pollution Analysis & Consulting for Dark Sky Partners, LLC.
+- Light Pollution Analysis & Consulting for [Dark Sky Partners, LLC](https://darkskypartners.com/).
 - Dark Sky Awareness and Outreach for [Flagstaff Dark Skies Coalition](https://flagstaffdarkskies.org/).
 
 <br />
