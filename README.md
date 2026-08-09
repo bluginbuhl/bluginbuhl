@@ -99,6 +99,6 @@ and neutron detection.
   <img alt="GitHub activity for bluginbuhl" src="assets/stats-light.svg" width="840">
 </picture>
 
-<sub>Rendered daily by <a href="./.github/workflows/stats.yml">GitHub Actions</a> and committed to this repo. Repository and star counts cover public repositories; the commit count includes private contributions.</sub>
+<sub>Rendered daily by <a href="./.github/workflows/stats.yml">GitHub Actions</a> and committed to this repo. Repository and star counts cover public repositories; the commit count includes private contributions. The language mix is hand-maintained in <a href="./scripts/generate_stats.py">the render script</a>, since public repos hold only a small share of the work.</sub>
 
 </div>
