@@ -36,6 +36,9 @@ Outside of work I do light pollution analysis and dark sky advocacy in
 Flagstaff, the world's first International Dark Sky City. The measurement side
 of it is not far from the photometry I was doing on solar cells.
 
+The rest of my time goes to camping, hiking, and mountain biking. At home I
+play guitar, cook, read, and spend a fair number of evenings gaming.
+
 ---
 
 ## Currently
