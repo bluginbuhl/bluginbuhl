@@ -1,0 +1,52 @@
+name: Refresh profile stats
+
+on:
+  schedule:
+    # 06:00 UTC daily.
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - scripts/generate_stats.py
+      - scripts/update_research.py
+      - .github/workflows/stats.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-stats
+  cancel-in-progress: true
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Render stat cards
+        env:
+          # STATS_TOKEN is an optional classic PAT with read:user; supplying it
+          # folds private contributions into the commit count. Without it the
+          # default token still works, but reports public activity only.
+          GITHUB_TOKEN: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
+        run: python3 scripts/generate_stats.py
+
+      - name: Refresh citation metrics
+        # OpenAlex is keyless. Non-fatal: a transient outage there should not
+        # fail the run or block the stat card from updating.
+        continue-on-error: true
+        run: python3 scripts/update_research.py
+
+      - name: Commit if changed
+        run: |
+          if [ -z "$(git status --porcelain assets README.md)" ]; then
+            echo "Nothing changed."
+            exit 0
+          fi
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets README.md
+          git commit -m "chore: refresh profile stats"
+          git push
