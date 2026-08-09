@@ -46,29 +46,18 @@ play guitar, cook, read, and spend a fair number of evenings gaming.
 <!-- Plain HTML so there's no empty header row. GFM tables always render one. -->
 <table>
 <tr>
-  <td><b>Sr. Scientific Software Developer</b></td>
-  <td><a href="https://www.enthought.com/">Enthought, Inc.</a></td>
+  <td valign="middle"><b>Sr. Scientific Software Developer</b></td>
+  <td valign="middle"><a href="https://www.enthought.com/">Enthought, Inc.</a></td>
 </tr>
 <tr>
-  <td><b>Light Pollution Analysis &amp; Consulting</b></td>
-  <td><a href="https://darkskypartners.com/">Dark Sky Partners, LLC</a></td>
+  <td valign="middle"><b>Light Pollution Analysis &amp; Consulting</b></td>
+  <td valign="middle"><a href="https://darkskypartners.com/">Dark Sky Partners, LLC</a></td>
 </tr>
 <tr>
-  <td><b>Board Member, Dark Sky Awareness &amp; Outreach</b></td>
-  <td><a href="https://flagstaffdarkskies.org/">Flagstaff Dark Skies Coalition</a></td>
+  <td valign="middle"><b>Board Member, Dark Sky Awareness &amp; Outreach</b></td>
+  <td valign="middle"><a href="https://flagstaffdarkskies.org/">Flagstaff Dark Skies Coalition</a></td>
 </tr>
 </table>
-
----
-
-## Selected Work
-
-| Project | What it does | Stack |
-|:--|:--|:--|
-| [**ref-scraper**](https://github.com/bluginbuhl/ref-scraper) | Resolves journal article URLs from titles, for the part of a literature review nobody wants to do by hand | `Python` |
-| [**django-project-example**](https://github.com/bluginbuhl/django-project-example) | Bare-bones containerized Django + PostgreSQL starter with secrets handled properly via `django-environ` | `Python` `Docker` |
-
-<sub>Most of my work is in private client repositories, so this list only shows a few of my open source projects.</sub>
 
 ---
 
@@ -92,59 +81,59 @@ and neutron detection.
 ## Toolbelt
 
 <!-- Plain HTML so there's no empty header row. Badges stay in markdown:
-     GitHub parses it inside a <td> only when blank lines surround it. -->
+     GitHub parses it inside a table cell only when blank lines surround it. -->
 <table>
 <tr>
-<td><b>Languages</b></td>
-<td>
+<td valign="middle"><b>Languages</b></td>
+<td valign="middle">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-663399?style=flat-square&logo=css&logoColor=white)
 
 </td>
 </tr>
 <tr>
-<td><b>Scientific & ML</b></td>
-<td>
+<td valign="middle"><b>Scientific & ML</b></td>
+<td valign="middle">
 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-0054A6?style=flat-square&logo=scipy&logoColor=white) ![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Lightning](https://img.shields.io/badge/Lightning-792EE5?style=flat-square&logo=lightning&logoColor=white) ![Optuna](https://img.shields.io/badge/Optuna-2B6DAD?style=flat-square&logo=optuna&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![marimo](https://img.shields.io/badge/marimo-1B7F5C?style=flat-square) ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white) ![DVC](https://img.shields.io/badge/DVC-13ADC7?style=flat-square&logo=dvc&logoColor=white)
 
 </td>
 </tr>
 <tr>
-<td><b>Materials Informatics</b></td>
-<td>
+<td valign="middle"><b>Materials Informatics</b></td>
+<td valign="middle">
 
 ![RDKit](https://img.shields.io/badge/RDKit-1F4E79?style=flat-square) ![Chemprop](https://img.shields.io/badge/Chemprop-6A4C93?style=flat-square) ![ASE](https://img.shields.io/badge/ASE-B7791F?style=flat-square) ![pymatgen](https://img.shields.io/badge/pymatgen-2C7A7B?style=flat-square) ![matminer](https://img.shields.io/badge/matminer-9B2C2C?style=flat-square) ![GROMACS](https://img.shields.io/badge/GROMACS-2B6CB0?style=flat-square)
 
 </td>
 </tr>
 <tr>
-<td><b>AI & LLM</b></td>
-<td>
+<td valign="middle"><b>AI & LLM</b></td>
+<td valign="middle">
 
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white) ![Anthropic API](https://img.shields.io/badge/Anthropic_API-191919?style=flat-square&logo=anthropic&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![PydanticAI](https://img.shields.io/badge/PydanticAI-E92063?style=flat-square&logo=pydantic&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
 </td>
 </tr>
 <tr>
-<td><b>Backend</b></td>
-<td>
+<td valign="middle"><b>Backend</b></td>
+<td valign="middle">
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
 </td>
 </tr>
 <tr>
-<td><b>Frontend</b></td>
-<td>
+<td valign="middle"><b>Frontend</b></td>
+<td valign="middle">
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white) ![Zustand](https://img.shields.io/badge/Zustand-433E38?style=flat-square) ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![D3](https://img.shields.io/badge/D3-F9A03C?style=flat-square&logo=d3&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square)
 
 </td>
 </tr>
 <tr>
-<td><b>Platform & Tooling</b></td>
-<td>
+<td valign="middle"><b>Platform & Tooling</b></td>
+<td valign="middle">
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white) ![uv](https://img.shields.io/badge/uv-DE5FE9?style=flat-square&logo=uv&logoColor=white) ![Ruff](https://img.shields.io/badge/Ruff-D7FF64?style=flat-square&logo=ruff&logoColor=black)
 

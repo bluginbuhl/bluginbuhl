@@ -221,11 +221,16 @@ def render(
     # even when their Linguist colors are close. Python and TypeScript are both
     # blue, and butted together they read as one bar.
     gap = 2.0
+    last = len(langs) - 1
     x = float(PAD)
-    for _, pct, color in langs:
+    for i, (_, pct, color) in enumerate(langs):
         w = bar_w * pct / 100
+        # The final segment runs the full width so it reaches the bar's right
+        # edge. Inset it like the others and the rounded track shows through,
+        # giving the two ends visibly different caps.
+        seg = w if i == last else max(w - gap, 1.0)
         add(
-            f'<rect x="{x:.2f}" y="{bar_y}" width="{max(w - gap, 1.0):.2f}" '
+            f'<rect x="{x:.2f}" y="{bar_y}" width="{seg:.2f}" '
             f'height="{bar_h}" fill="{color}" clip-path="url(#bar)"/>'
         )
         x += w
