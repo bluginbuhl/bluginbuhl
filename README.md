@@ -64,7 +64,7 @@ play guitar, cook, read, and spend a fair number of evenings gaming.
 ## Research
 
 <!-- RESEARCH_STATS:start -->
-[**Google Scholar**](https://scholar.google.com/citations?user=lAqY7oIAAAAJ&hl=en) · 926 citations · h-index 11 · 18 indexed works <br/><sub>Metrics via [OpenAlex](https://openalex.org/), refreshed Aug 2026. Scholar reports higher totals because it indexes more citing sources.</sub>
+[**Google Scholar**](https://scholar.google.com/citations?user=lAqY7oIAAAAJ&hl=en) · 926 citations · h-index 11 · 18 indexed works <br/><sub>Metrics via [OpenAlex](https://openalex.org/), refreshed Sep 2026. Scholar reports higher totals because it indexes more citing sources.</sub>
 <!-- RESEARCH_STATS:end -->
 
 Organic photovoltaics and photodetectors, non-fullerene acceptors, charge
